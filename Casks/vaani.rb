@@ -1,6 +1,6 @@
 cask "vaani" do
   version "1.0.0"
-  sha256 "b0b19e428c1c9ed0297840606d03b92b63a1ff99b68afdcb5b96da0770a0f226"
+  sha256 "47bc8022ed204e68c9e345cebf0f92792abe9472d9355949060e5e9201c35fdf"
 
   url "https://github.com/jayjpatel9717/Vaani-translator/releases/download/v#{version}/Vaani-v#{version}-macOS.dmg"
   name "Vaani"
