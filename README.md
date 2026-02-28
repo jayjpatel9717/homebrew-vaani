@@ -49,12 +49,12 @@ brew uninstall --zap --cask vaani
 
 ## About Vaani
 
-Vaani is a powerful voice translation app supporting:
-- 23 Indian languages (Hindi, Gujarati, Tamil, Telugu, Bengali, and more)
-- 5 translation modes (Voice-to-Text, Voice-to-Voice, Text-to-Voice, Speech-to-Speech, Real-time)
-- Real-time speech-to-speech translation
-- Native macOS design (Ventura+ optimized)
-- Complete privacy (no data logging)
+Vaani is a native macOS menubar app for real-time voice-to-text translation supporting:
+- 23 Indian languages (Hindi, Gujarati, Tamil, Telugu, Bengali, Marathi, Kannada, Malayalam, and more)
+- 5 modes: Transcribe, Translate, Transliterate, Code-mix, Verbatim
+- Global hotkeys — hold to speak, release to translate, text auto-pastes at cursor
+- Native SwiftUI design (macOS Ventura+ optimized)
+- API key stored in macOS Keychain, audio in protected directory
 
 ## Support
 
